@@ -1,0 +1,8 @@
+{
+	"server":"149.28.233.237",
+	"server_port":8990,
+	"local_port":1080,
+	"password":"lth930323",
+	"timeout":600,
+	"method":"aes-256-cfb"
+}
